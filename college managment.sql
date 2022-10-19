@@ -1,0 +1,13 @@
+--use myschool;
+--select * from student;
+--create table teacher(t_id int primary key,Name nvarchar,DOB date,phone nvarchar(220),Department nvarchar(220));
+--select * from teacher;
+--create table courses(c_id int primary key,C_name nvarchar(220));
+--select * from courses;
+--create table department(D_id int primary key,c_id int unique,D_name nvarchar(220),foreign key(c_id) references courses(c_id));
+--select * from department;
+--create table college(t_id int unique,reg_no int unique,c_id int unique,D_id int primary key,foreign key(t_id) references teacher(t_id),
+--foreign key(reg_no) references student(reg_no),foreign key(D_id) references department(D_id));
+--drop table school;
+--select * from school;
+create table mark(reg_no int primary key,c_id int,Grade nvarchar(50),foreign key(c_id) references courses(c_id),foreign key(reg_no) references student(reg_no));
