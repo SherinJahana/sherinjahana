@@ -1,0 +1,113 @@
+img{ width: 100%;}
+.one{
+    border: 2px rgb(177,174,174) solid;
+    background-color:darkgrey;
+    padding: 3%;
+    padding-right: 10px;
+    margin: 30px;
+}
+
+.divh2{
+    color: aliceblue;
+}
+
+.dvmain{
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+.two{
+    display: inline-block;
+}
+
+.srch{
+    float: right;
+}
+.crdiv{display:table-cell} 
+
+.crdmain{
+    display: inline-block;
+    border-radius: 0%;
+}
+.card{
+    display: table-cell;
+    border: 80px white solid;
+    background-color:darkgrey;
+    padding: 1%;
+    size: 5%;
+    margin: 2%;
+}
+.des{
+    font-size: 20px; 
+}
+.h4{
+    color: black;
+    font-size: 30px;
+}
+ .pgh{
+    font-style: normal;
+    font-size: 20px;
+ }
+ 
+.main,.dv-mn-2{
+    margin-left: 10px;
+    background-color: rgb(242, 242, 243);
+    width: 65%;
+    border: 1px rgb(110, 110, 110) solid;
+}
+
+.mn-dv-1{
+    margin: 20px;
+    width: 50%;
+    text-align: justify;
+    display: table-cell;
+    padding: 30px;
+}
+
+.hr-1{
+    width: 93%;   
+}
+.p{
+    font-size: 20px;
+}
+.mn-dv-2{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.dv-mn-2{
+padding: 20px;
+}
+
+.dv-smpl{
+    background-color: rgb(110, 31, 31);
+    height: 40px;
+    margin: 50px;
+}
+
+.logo-dv{
+    float: left;
+    display:block;
+
+}
+
+.btcrd{
+    display: block;
+    background-color: brown;
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    MARGIN-left: 75px;
+}
+
+.top-dv{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* 
+DCEMI
+567676
+  */
