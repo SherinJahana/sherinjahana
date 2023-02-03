@@ -1,0 +1,132 @@
+
+
+
+.FIT{
+    display :inline-block;
+}
+
+div.dv{
+     
+    height: auto;
+    width: auto;
+    background-color: black;
+    
+}
+
+div.dv h3,a{
+    margin: 20px;
+    padding: 1%,1%;
+    color: aliceblue;
+}
+.inline,.search{ display: inline-flex;}
+.search{
+float: right;
+padding-top: 1%;
+margin-right: 10px;
+ 
+}
+.card{
+    border: 2 px rgb(177, 174, 174) solid;
+    background-color: rgb(229, 226, 226);
+    padding: 3.2%;
+    padding-right: 110px;
+    margin: 10px;
+}
+div.crd{
+    display: flex;
+}
+
+.card-img-top{
+    width: 300px;
+    height: 300px;
+    margin: 3%;
+}
+
+.dv-main{
+    width: 65%;
+    height: 250px;
+    background-color: rgb(229, 226, 226);
+    border: 2px rgb(218, 216, 216) solid;
+}
+.dv-1{
+    display: table-cell;
+    margin: 30px;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+ 
+.dv-2{
+      margin: 20px;
+      text-align: justify;
+      vertical-align: middle;
+      color: rgb(140, 137, 133);
+      font-size: 20px;
+      display: table-cell;
+      width: 40%;
+      padding: 20px;
+}
+div.dv-1 p{
+    font-size: 20px;
+    color: rgb(140, 137, 133);
+    display: block;
+    text-align: justify;
+} 
+
+.hr1{
+   width: 95%;
+ 
+}
+
+div.dv-1 h1{
+    float:left;
+    padding-left: 10px;
+}
+
+div.dv-main,div.get-in-touch{
+    display: table-cell;
+    vertical-align: top;
+}
+
+.inp-div{
+    height: 50px;
+    margin: 30px;
+    background-color: blue;
+    width: 600px;
+    
+}
+
+.git-h1{
+   padding-left: 50px;
+}
+
+.crd{
+    width: 35%;
+}
+
+
+.lf-dv,.rt-dv{
+    display: inline-flex;
+}
+
+.crd-bt{
+    display: table-cell;
+    border: 2 px rgb(177, 174, 174) solid;
+    background-color: rgb(229, 226, 226);
+    padding: 3.2%;
+    padding-right: 110px;
+    margin: 10px;
+}
+
+.crd-rt{
+    display: table-cell;
+    border: 2 px rgb(177, 174, 174) solid;
+    background-color: rgb(229, 226, 226);
+    padding: 3.2%;
+    padding-right: 110px;
+    margin: 10px;
+}
+
+.lf-sb-dv{
+    display: block;
+}
