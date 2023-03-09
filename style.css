@@ -1,5 +1,7 @@
 .h1{
     text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 .hr{
     height: 10px;
@@ -11,4 +13,77 @@ img{
 }
 .h2{
     font-size: 8px;
+}
+
+
+.session2 .r3{
+    padding-bottom: 200px;
+}
+.session2 .c1,.session2 .c2{
+    background-color: #f8f9fb;
+}
+
+.session2 .c1{
+    margin-right: 10px;
+}
+.session2 .r1, .session2 .r2{
+    background-color:#eaebec;
+    padding-top: 20px;
+}
+
+.session2 .r1{
+    padding-right: 10px;
+}
+.h4{
+    padding-top: 20px;
+}
+.p2{
+    background-color: #ffb606;
+}
+.session3 .c1{
+    background-color: #ffb606;
+    padding-top: 156px;
+    padding-bottom: 161px;
+    
+}
+
+
+.session3 .c1{
+    color: #eaebec;
+    padding: 150px 120px;
+}
+.session3{
+    background: url('../images/search_background.jpg.webp') #ffb606 no-repeat top right;
+
+    
+}
+
+.session3 .spn1{
+    color: black;
+}
+.session3 .h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    padding:0px 100px;
+    
+    
+}
+.session3 .p1{
+    font-family:'Roboto', sans-serif ;
+    color: #ffff;
+    padding: 10px 150px;
+    padding-bottom: 50px;
+}
+.session3 .btn{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    height: 50px;
+    width:250px;
+    font-weight: bold;
+}
+.session3 .r2{
+    background-color: rgba(232, 230, 230, 0.552);
+
+
 }
